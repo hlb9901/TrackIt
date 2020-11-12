@@ -28,6 +28,11 @@ body{
 
 }
 
+img{
+    width:95px;
+    height:75px;
+}
+
 
 
 .logo {
@@ -37,7 +42,7 @@ body{
     font-size: 22px;
     line-height: 80px;
     padding: 0 6em;
-    margin-top: 15px;
+    margin-top: 0px;
     
 }
 
@@ -60,7 +65,7 @@ body{
     color: #fff;
     font-size:16px;
     font-weight: lighter;
-    padding:0 20px;
+    padding:0 5px;
 }
 
 ul li:nth-child(4) a {
